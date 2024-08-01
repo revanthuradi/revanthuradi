@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **nextjs**
 
-- 👨‍💻 All of my projects are available at [https://github.com/revanthuradi](https://github.com/revanthuradi)
+- 👨‍💻 All of my projects are available at [@revanthuradi](https://github.com/revanthuradi)
 
 - 📫 How to reach me **revanthuradi9866@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1OO56cWbDjLnP_7jBKeJhLfZ_FyO43MXe/edit?usp=drive_link&ouid=104239959052433074892&rtpof=true&sd=true](https://docs.google.com/document/d/1OO56cWbDjLnP_7jBKeJhLfZ_FyO43MXe/edit?usp=drive_link&ouid=104239959052433074892&rtpof=true&sd=true)
+- 📄 Know about my experiences [resume](https://docs.google.com/document/d/1OO56cWbDjLnP_7jBKeJhLfZ_FyO43MXe/edit?usp=drive_link&ouid=104239959052433074892&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
