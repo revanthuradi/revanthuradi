@@ -1,4 +1,4 @@
-# Hi, REVANTH URADI
+# Hi,I'm REVANTH URADI
 
 ## About Me
 
