@@ -25,7 +25,9 @@ Hey there! I'm Revanth Uradi, a passionate MERN stack developer with over a year
 - **PDF Report Generation** :Generate and download a PDF report of your financial data for easy record-keeping and analysis.
 - **Analytics and Statistics**: Displays statistics through chart models, providing visual insights into spending habits and financial trends.
 
-- **chatGlide - Realtime chat application**: [Project Link](https://github.com/revanthuradi/CHAT-GLIDE)
+
+
+**chatGlide - Realtime chat application**: [Project Link](https://github.com/revanthuradi/CHAT-GLIDE)
 
 **Tech Stack** :NodesJs, ExpressJs, ReactJs, TailwindCSS, Redux, Socket.io, JWT, Cloudinary, MongoDB.
 
@@ -34,11 +36,15 @@ Hey there! I'm Revanth Uradi, a passionate MERN stack developer with over a year
 - Database management utilized MongoDB as the database to store and manage chat information and user data.
 - **User authentication** : implemented user authentication using JWT.
 
+
+
 ### Connect with Me:
 
 - Email: revanthuradi9866@gmail.com
 - LinkedIn: https://www.linkedin.com/in/revanthuradi
 - portfolio : https://revanthuradi.vercel.app/
+
+
 
 ### Feedback Welcome :
 
