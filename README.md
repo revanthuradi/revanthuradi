@@ -14,7 +14,7 @@ Hey there! I'm Revanth Uradi, a passionate MERN stack developer with over a year
 
 ### Projects:
 
-- **pennyTracker - Online Food Ordering System**: [Project Link](https://github.com/revanthuradi/pennyTracker)
+- **pennyTracker - Expenses tracking application**: [Project Link](https://github.com/revanthuradi/pennyTracker)
 
 **Tech Stack** : NodesJs, ExpressJs, ReactJs, TailwindCSS, JWT, MongoDB,React-router-dom.
 
