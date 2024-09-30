@@ -19,7 +19,7 @@ Hey there! I'm Revanth Uradi, a passionate MERN stack developer with over a year
 **Tech Stack** : NodesJs, ExpressJs, ReactJs, TailwindCSS, JWT, MongoDB,React-router-dom.
 
 - Frontend development using ReactJs , react-router-dom, and tailwindCSS for interactive intuitive and responsive user interfaces.
-- Backend implementation using firebase for user authentication and data management .
+- Backend implementation with Node.js and Express.js for user authentication and data management.
 - **PennyTracker** is a financial tracking app that helps users monitor their daily income and expenses.
 - **Daily Income and Expense Tracking** : Easily log and categorize your financial transactions.
 - **PDF Report Generation** :Generate and download a PDF report of your financial data for easy record-keeping and analysis.
