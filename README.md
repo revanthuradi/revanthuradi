@@ -6,8 +6,9 @@ Hey there! I'm Revanth Uradi, a passionate MERN stack developer with over a year
 
 ### Skills & Interests:
 
-- **Programming Languages** : JavaScript, HTML, CSS, python
-- **Frameworks/Libraries** : React,Redux,Taiwindcss,JWT,expressjs,mongoose,react-router-dom
+- **Programming Languages** : JavaScript, python
+- **Web Technologies** : HTML, CSS, TaiwindCSS
+- **Frameworks/Libraries** : React,Redux,JWT,expressjs,mongoose,react-router-dom
 - **Databases** : MongoDB, MySQL, SQLite
 - **Developer Tools** : Git/Github, Google Colab, VS Code, Postman
 - **Academic Coursework** : Data Structures, Operating Systems (Windows, Linux), CN, OOP, DBMS
